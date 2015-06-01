@@ -99,6 +99,9 @@ while node:
             band=mi,mx
     if len(tds)==6:
         #frex.append(band+[text(tds[i]) for i in xrange(1,6)])
-        print (u"%s\t%s\t%s" % (band[0],band[1], u'\t'.join([unws(text(tds[i])) for i in xrange(1,6)]))).encode('utf8')
+        print (u"%s\t%s\t%s\t%s" % (band[0],
+                                    band[1],
+                                    'nmhh',
+                                    u'\t'.join([unws(text(tds[i])) for i in xrange(1,6)]))).encode('utf8')
     if unws(text(tds[0]),'')=='3407': break
     node = node.xpath('./following-sibling::p')[0]
