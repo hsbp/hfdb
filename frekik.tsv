@@ -3416,3 +3416,370 @@
 1297494000	1297981000	hamwiki	1297.500-1297.975 SM20-SM39 25 kHz-enkénti szimplex csatornák1297.500 FM aktivitás közép1297.725 DV hívófrekvencia1297.900-1297.975 szimplex FM internetes hangtovábbítás (például EchoLink	12 kHz	FMDV
 1297981000	1298000000	empty
 1298000000	1300000000	hamwiki	1298.025-1298.500 RS01-RS28 átjátszók lejövő ága1298.500-1300.000 digitális átvitel (csatornán belül)1298.725-1299.000 RS29-RS40 csomagrádió duplex mód	20 kHz	minden üzemmód
+165850000	165850000	amatorradiozas.hu	BKV Rt. Fogaskerekű
+162375000	162375000	amatorradiozas.hu	BKV Rt. forgalmi, műszaki csatorna
+165450000	165450000	amatorradiozas.hu	BKV Rt. M2 K-Ny metró
+165550000	165550000	amatorradiozas.hu	BKV Rt. M2 K-Ny metró
+165700000	165700000	amatorradiozas.hu	BKV Rt. M3 É-D metró
+165725000	165725000	amatorradiozas.hu	BKV Rt. M3 É-D metró
+157050000	157050000	amatorradiozas.hu	BKV Rt. Mill. Fav.
+157025000	157025000	amatorradiozas.hu	BKV Rt. Millenniumi Földalatti Vasút tone: 94.8
+451837500	451837500	amatorradiozas.hu	BKV Rt. 4-6 villamos
+461837500	461837500	amatorradiozas.hu	BKV Rt. 4-6 villamos
+451350000	451350000	amatorradiozas.hu	BKV Rt. AVM adat csatorna
+451425000	451425000	amatorradiozas.hu	BKV Rt. AVM adat csatorna
+451575000	451575000	amatorradiozas.hu	BKV Rt. AVM adat csatorna
+451687500	451687500	amatorradiozas.hu	BKV Rt. AVM adat csatorna
+461350000	461350000	amatorradiozas.hu	BKV Rt. AVM adat csatorna
+461362500	461362500	amatorradiozas.hu	BKV Rt. AVM adat csatorna
+461425000	461425000	amatorradiozas.hu	BKV Rt. AVM adat csatorna
+461575000	461575000	amatorradiozas.hu	BKV Rt. AVM adat csatorna
+461687500	461687500	amatorradiozas.hu	BKV Rt. AVM adat csatorna
+461562500	461562500	amatorradiozas.hu	BKV Rt. AVM beszéd csatorna
+461825000	461825000	amatorradiozas.hu	BKV Rt. AVM beszéd csatorna
+451562500	451562500	amatorradiozas.hu	BKV Rt. AVM beszéd csatorna
+451825000	451825000	amatorradiozas.hu	BKV Rt. AVM beszéd csatorna
+451537500	451537500	amatorradiozas.hu	BKV Rt. AVM beszéd csatorna irányítás
+461537500	461537500	amatorradiozas.hu	BKV Rt. AVM beszéd csatorna irányítás
+451812500	451812500	amatorradiozas.hu	BKV Rt. AVM beszéd csatorna, hangátvitel
+461812500	461812500	amatorradiozas.hu	BKV Rt. AVM beszéd csatorna, hangátvitel
+451375000	451375000	amatorradiozas.hu	BKV Rt. AVM jelző
+461375000	461375000	amatorradiozas.hu	BKV Rt. AVM jelző
+461737000	461737000	amatorradiozas.hu	BKV Rt. beszéd
+461816000	461816000	amatorradiozas.hu	BKV Rt. beszéd
+451862500	451862500	amatorradiozas.hu	BKV Rt. Trönk
+451925000	451925000	amatorradiozas.hu	BKV Rt. Trönk
+452275000	452275000	amatorradiozas.hu	BKV Rt. Trönk
+461862500	461862500	amatorradiozas.hu	BKV Rt. trönk
+461925000	461925000	amatorradiozas.hu	BKV Rt. trönk
+462275000	462275000	amatorradiozas.hu	BKV Rt. trönk
+452100000	452100000	amatorradiozas.hu	BKV Rt. Trönk adat
+462100000	462100000	amatorradiozas.hu	BKV Rt. trönk adat
+451900000	451900000	amatorradiozas.hu	BKV Rt. Trönk beszéd átvitel
+461900000	461900000	amatorradiozas.hu	BKV Rt. Trönk beszéd átvitel
+462225000	462225000	amatorradiozas.hu	BKV Rt. Trönk beszéd átvitel
+462350000	462350000	amatorradiozas.hu	BKV Rt. Trönk beszéd átvitel
+462200000	462200000	amatorradiozas.hu	BKV Rt. Trönk beszéd átvitel, Baross tér irányító
+451712500	451712500	amatorradiozas.hu	BKV Rt. Trönk, beszéd átvitel
+452225000	452225000	amatorradiozas.hu	BKV Rt. Trönk, beszéd átvitel
+452350000	452350000	amatorradiozas.hu	BKV Rt. Trönk, beszéd átvitel
+461712500	461712500	amatorradiozas.hu	BKV Rt. Trönk, beszéd átvitel
+451737500	451737500	amatorradiozas.hu	BKV Rt.AVM beszéd cs.,Csepel Szent Imre t. Boráros t. tel
+461737500	461737500	amatorradiozas.hu	BKV Rt.AVM beszéd csatorna,Csepel Szent Imre tér
+462175000	462175000	amatorradiozas.hu	BKV tiszti csatorna, beszéd átvitel
+452175000	452175000	amatorradiozas.hu	BKV tiszti csatorna, beszéd átvitel tone: 186.2, v
+467390000	467390000	amatorradiozas.hu	HÉV Csepel tone: 131.8
+457390000	457390000	amatorradiozas.hu	HÉV Csepel tone: 131.8 lokális, SEL5
+467675000	467675000	amatorradiozas.hu	HÉV Ráckeve tone: 91.5 468.43125/467.66875
+457675000	457675000	amatorradiozas.hu	HÉV Ráckeve tone:91.5 468.43125/467.66875 lokális,SEL5
+458425000	458425000	amatorradiozas.hu	HÉV Szentendre t: 73. 8 ,156,7 468.41875 lokális,SEL5
+468425000	468425000	amatorradiozas.hu	HÉV Szentendre tone: 173.8, 156.7 468.41875
+156525000	156525000	amatorradiozas.hu	Hajózási nemz. hajózási segélykérő digitális hívó csat.
+156500000	156500000	amatorradiozas.hu	Hajózási, CH 10
+156550000	156550000	amatorradiozas.hu	Hajózási, CH 11 Bp. személyhajó
+156600000	156600000	amatorradiozas.hu	Hajózási, CH 12
+156700000	156700000	amatorradiozas.hu	Hajózási, CH 14
+156750000	156750000	amatorradiozas.hu	Hajózási, CH 15
+161700000	161700000	amatorradiozas.hu	Hajózási, CH 22 Navinfó vízállás jelentés
+156575000	156575000	amatorradiozas.hu	Hajózási, CH 71
+156675000	156675000	amatorradiozas.hu	Hajózási, CH 73
+156875000	156875000	amatorradiozas.hu	Hajózási, CH 77
+156800000	156800000	amatorradiozas.hu	Hajózási, nemzetközi hajózási segélykérő csat. CH 16
+156625000	156625000	amatorradiozas.hu	Hajózási, segélykérő CH 72
+457525000	457525000	amatorradiozas.hu	Hajózási fedélzeti frekvencia Ch1
+467575000	467575000	amatorradiozas.hu	Hajózási fedélzeti frekvencia Ch10
+457537500	457537500	amatorradiozas.hu	Hajózási fedélzeti frekvencia Ch2
+457550000	457550000	amatorradiozas.hu	Hajózási fedélzeti frekvencia Ch3
+457562500	457562500	amatorradiozas.hu	Hajózási fedélzeti frekvencia Ch4
+457575000	457575000	amatorradiozas.hu	Hajózási fedélzeti frekvencia Ch5
+467537500	467537500	amatorradiozas.hu	Hajózási fedélzeti frekvencia Ch7
+467550000	467550000	amatorradiozas.hu	Hajózási fedélzeti frekvencia Ch8
+467562500	467562500	amatorradiozas.hu	Hajózási fedélzeti frekvencia Ch9
+467525000	467525000	amatorradiozas.hu	Hajózási fedélzeti segélyhívó frekvencia Ch6
+444150000	444150000	amatorradiozas.hu	Hajózási frekvencia
+449150000	449150000	amatorradiozas.hu	Hajózási frekvencia
+449237500	449237500	amatorradiozas.hu	Autópálya mérnökség
+444125000	444125000	amatorradiozas.hu	Autópálya mérnökség jelentés ink 462.375 re
+448950000	448950000	amatorradiozas.hu	Autóút kezelő kht.
+443950000	443950000	amatorradiozas.hu	Autóút kezelő kht. 165.275
+461525000	461525000	amatorradiozas.hu	Mammut Bizt. szolg
+149037500	149037500	amatorradiozas.hu	Metro áruház Bizt. szolg
+468515000	468515000	amatorradiozas.hu	Premier Outlet, Biatorbágy
+462175000	462175000	amatorradiozas.hu	RIMI
+458500000	458500000	amatorradiozas.hu	Tesco bizt. szolg 1:
+446068000	446068000	amatorradiozas.hu	Tesco bizt. szolg 2:
+458537500	458537500	amatorradiozas.hu	Tesco bizt. szolg 3:
+461875000	461875000	amatorradiozas.hu	Westend City Center (belső rendészet)
+461975000	461975000	amatorradiozas.hu	Westend City center (külső rendészet)
+458520000	458520000	amatorradiozas.hu	Cora hypermarket, Fót
+468530000	468530000	amatorradiozas.hu	Csepel Plaza
+461525000	461525000	amatorradiozas.hu	Mammut Bizt. szolg
+149037500	149037500	amatorradiozas.hu	Metro áruház Bizt. szolg
+461887500	461887500	amatorradiozas.hu	Pólus Center
+451887500	451887500	amatorradiozas.hu	Pólus Center Rx,Tx tone: 103.5
+468515000	468515000	amatorradiozas.hu	Premier Outlet, Biatorbágy
+458500000	458500000	amatorradiozas.hu	Tesco bizt. szolg 1:
+446068000	446068000	amatorradiozas.hu	Tesco bizt. szolg 2:
+458537500	458537500	amatorradiozas.hu	Tesco bizt. szolg 3:
+461875000	461875000	amatorradiozas.hu	Westend City Center (belső rendészet)
+160660000	160660000	amatorradiozas.hu	FKF Rt. hókotró
+160650000	160650000	amatorradiozas.hu	FKF Rt. hókotró, takarítók, táblázók
+163050000	163050000	amatorradiozas.hu	FKF Rt. szemétszállítás+ rendészet
+462150000	462150000	amatorradiozas.hu	Fővárosi Közterület Felügyelet
+452150000	452150000	amatorradiozas.hu	Fővárosi Közterület Felügyelet SEL 5, tone:69.3
+452290000	452290000	amatorradiozas.hu	Fővárosi Közterület Felügyelet SEL 5, tone:69.3
+452312500	452312500	amatorradiozas.hu	Fővárosi Közterület Felügyelet SEL 5, tone:69.3
+452690000	452690000	amatorradiozas.hu	Fővárosi Közterület Felügyelet SEL 5, tone:69.3
+462290000	462290000	amatorradiozas.hu	Fővárosi Közterület Felügyelet (szünetel)
+462312500	462312500	amatorradiozas.hu	Fővárosi Közterület Felügyelet (szünetel)
+462690000	462690000	amatorradiozas.hu	Fővárosi Közterület Felügyelet (szünetel)
+462720000	462720000	amatorradiozas.hu	Fővárosi Parkolási Társulás /ideiglenes/
+452725000	452725000	amatorradiozas.hu	Fővárosi Parkolási Társulás /ideiglenes/ SEL 5, tone:69.3
+160850000	160850000	amatorradiozas.hu	Fővárosi Gázművek Rt.
+167100000	167100000	amatorradiozas.hu	Fővárosi Vízművek Rt.
+447200000	447200000	amatorradiozas.hu	Fővárosi Vízművek Rt.
+442200000	442200000	amatorradiozas.hu	Fővárosi Vízművek Rt.
+442350000	442350000	amatorradiozas.hu	Vízmű jeladó
+442400000	442400000	amatorradiozas.hu	Vízmű jeladó
+442737500	442737500	amatorradiozas.hu	Vízmű jeladó
+442825000	442825000	amatorradiozas.hu	Vízmű jeladó
+443537500	443537500	amatorradiozas.hu	Vízmű jeladó
+444412500	444412500	amatorradiozas.hu	Vízmű jeladó
+444450000	444450000	amatorradiozas.hu	Vízmű jeladó
+444975000	444975000	amatorradiozas.hu	Vízmű jeladó
+446000000	446000000	amatorradiozas.hu	Vízmű jeladó
+447125000	447125000	amatorradiozas.hu	Vízmű jeladó
+447175000	447175000	amatorradiozas.hu	Vízmű jeladó
+447350000	447350000	amatorradiozas.hu	Vízmű jeladó
+447400000	447400000	amatorradiozas.hu	Vízmű jeladó
+447775000	447775000	amatorradiozas.hu	Vízmű jeladó
+447825000	447825000	amatorradiozas.hu	Vízmű jeladó
+447875000	447875000	amatorradiozas.hu	Vízmű jeladó
+447950000	447950000	amatorradiozas.hu	Vízmű jeladó
+448025000	448025000	amatorradiozas.hu	Vízmű jeladó
+448337500	448337500	amatorradiozas.hu	Vízmű jeladó
+448575000	448575000	amatorradiozas.hu	Vízmű jeladó
+449162500	449162500	amatorradiozas.hu	Vízmű jeladó
+449200000	449200000	amatorradiozas.hu	Vízmű jeladó
+449387500	449387500	amatorradiozas.hu	Vízmű jeladó
+449412500	449412500	amatorradiozas.hu	Vízmű jeladó
+449437500	449437500	amatorradiozas.hu	Vízmű jeladó
+449475000	449475000	amatorradiozas.hu	Vízmű jeladó
+449975000	449975000	amatorradiozas.hu	Vízmű jeladó
+461612500	461612500	amatorradiozas.hu	Áramszolgáltató
+451612500	451612500	amatorradiozas.hu	Áramszolgáltató tone: 218.1
+452725000	452725000	amatorradiozas.hu	DÉMÁSZ Naszály-hegyi kizárólagos átjátszója
+462725000	462725000	amatorradiozas.hu	DÉMÁSZ Naszály-hegyi kizárólagos átjátszója
+461725000	461725000	amatorradiozas.hu	Édász Albertfalva
+451725000	451725000	amatorradiozas.hu	Édász Albertfalva tone: 192.8
+461830000	461830000	amatorradiozas.hu	Édász Veszprém-m.
+451830000	451830000	amatorradiozas.hu	Édász Veszprém-m. tone: 210.7
+448075000	448075000	amatorradiozas.hu	ÉMÁSZ
+443075000	443075000	amatorradiozas.hu	ÉMÁSZ tone:233.6
+423362500	423362500	amatorradiozas.hu	EnchangedDigitalAccessCommunicationSystem
+423412500	423412500	amatorradiozas.hu	EnchangedDigitalAccessCommunicationSystem
+423437500	423437500	amatorradiozas.hu	EnchangedDigitalAccessCommunicationSystem
+423537500	423537500	amatorradiozas.hu	EnchangedDigitalAccessCommunicationSystem
+462012500	462012500	amatorradiozas.hu	EON Komárom-Esztergom megye
+452012500	452012500	amatorradiozas.hu	EON Komárom-Esztergom megye tone: 192.8
+462025000	462025000	amatorradiozas.hu	EON Tata
+452025000	452025000	amatorradiozas.hu	EON Tata tone: 218.1
+462390000	462390000	amatorradiozas.hu	Eon Tatabánya helyi simplex
+148950000	148950000	amatorradiozas.hu	MÁV Rt.
+149000000	149000000	amatorradiozas.hu	MÁV Rt.
+149250000	149250000	amatorradiozas.hu	MÁV Rt.
+149275000	149275000	amatorradiozas.hu	MÁV Rt.
+158625000	158625000	amatorradiozas.hu	MÁV Rt.
+163200000	163200000	amatorradiozas.hu	MÁV Rt.
+163275000	163275000	amatorradiozas.hu	MÁV Rt.
+163625000	163625000	amatorradiozas.hu	MÁV Rt.
+163650000	163650000	amatorradiozas.hu	MÁV Rt.
+163775000	163775000	amatorradiozas.hu	MÁV Rt.
+163875000	163875000	amatorradiozas.hu	MÁV Rt.
+163175000	163175000	amatorradiozas.hu	MÁV Rt. Bp.- (Cegléd)- Szolnok vonal
+163100000	163100000	amatorradiozas.hu	MÁV Rt. Bp.- Hatvan CH1
+163150000	163150000	amatorradiozas.hu	MÁV Rt. Bp.- Szob-Sturovo
+163375000	163375000	amatorradiozas.hu	MÁV Rt. Déli pu.
+148875000	148875000	amatorradiozas.hu	MÁV Rt. Ferencvárosi pu.
+163350000	163350000	amatorradiozas.hu	MÁV Rt. Keleti menetirányitó CH 13
+149075000	149075000	amatorradiozas.hu	MÁV Rt. menesztő körzet
+163225000	163225000	amatorradiozas.hu	MÁV Rt. menetirányitó
+163300000	163300000	amatorradiozas.hu	MÁV Rt. MRKB
+163250000	163250000	amatorradiozas.hu	MÁV Rt. Nyugati pu.
+163850000	163850000	amatorradiozas.hu	MÁV Rt. pft. ügyelet
+163400000	163400000	amatorradiozas.hu	MÁV Rt. pu.
+163550000	163550000	amatorradiozas.hu	MÁV Rt. pu.
+163725000	163725000	amatorradiozas.hu	MÁV Rt. pu.
+458050000	458050000	amatorradiozas.hu	MÁV állomás Győr rendező
+458530000	458530000	amatorradiozas.hu	MÁV állomás Győrszentiván
+458325000	458325000	amatorradiozas.hu	MÁV állomás Tatabánya
+458450000	458450000	amatorradiozas.hu	MÁV Ch51 Mozdonyok
+468350000	468350000	amatorradiozas.hu	MÁV Kisbér, Kisbér-Komáromi vonalszakasz
+457480000	457480000	amatorradiozas.hu	MÁV Rt.
+457750000	457750000	amatorradiozas.hu	MÁV Rt.
+457900000	457900000	amatorradiozas.hu	MÁV Rt. Kelenföld
+458175000	458175000	amatorradiozas.hu	MÁV Rt. Keleti guritó
+457775000	457775000	amatorradiozas.hu	MÁV Rt. Keleti pu.
+457950000	457950000	amatorradiozas.hu	MÁV Rt. Keleti pu. beérkeztetés, rendező
+458100000	458100000	amatorradiozas.hu	MÁV Rt. Kezelő, Keleti pu. tolató-1
+468300000	468300000	amatorradiozas.hu	MÁV Rt. Kisbusz
+458300000	458300000	amatorradiozas.hu	MÁV Rt. Kisbusz tone: 141.3
+457875000	457875000	amatorradiozas.hu	MÁV Rt. menesztők
+457600000	457600000	amatorradiozas.hu	MÁV Rt. Nyugati, tolató I.
+457675000	457675000	amatorradiozas.hu	MÁV Rt. Nyugati, tolató II.
+458225000	458225000	amatorradiozas.hu	MÁV Rt. tolató
+468400000	468400000	amatorradiozas.hu	MÁV Tatabánya pálya karbantartók
+467500000	467500000	amatorradiozas.hu	MÁV vonali trönk háló
+467550000	467550000	amatorradiozas.hu	MÁV vonali trönk háló
+467575000	467575000	amatorradiozas.hu	MÁV vonali trönk háló
+467600000	467600000	amatorradiozas.hu	MÁV vonali trönk háló
+467625000	467625000	amatorradiozas.hu	MÁV vonali trönk háló
+467650000	467650000	amatorradiozas.hu	MÁV vonali trönk háló
+467675000	467675000	amatorradiozas.hu	MÁV vonali trönk háló
+467700000	467700000	amatorradiozas.hu	MÁV vonali trönk háló
+467750000	467750000	amatorradiozas.hu	MÁV vonali trönk háló
+467775000	467775000	amatorradiozas.hu	MÁV vonali trönk háló
+467825000	467825000	amatorradiozas.hu	MÁV vonali trönk háló
+467850000	467850000	amatorradiozas.hu	MÁV vonali trönk háló
+467925000	467925000	amatorradiozas.hu	MÁV vonali trönk háló
+467950000	467950000	amatorradiozas.hu	MÁV vonali trönk háló
+468000000	468000000	amatorradiozas.hu	MÁV vonali trönk háló
+468125000	468125000	amatorradiozas.hu	MÁV vonali trönk háló
+468150000	468150000	amatorradiozas.hu	MÁV vonali trönk háló
+468175000	468175000	amatorradiozas.hu	MÁV vonali trönk háló
+468200000	468200000	amatorradiozas.hu	MÁV vonali trönk háló
+468250000	468250000	amatorradiozas.hu	MÁV vonali trönk háló
+468300000	468300000	amatorradiozas.hu	MÁV vonali trönk háló
+457500000	457500000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+457550000	457550000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+457575000	457575000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+457600000	457600000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+457625000	457625000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+457650000	457650000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+457675000	457675000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+457700000	457700000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+457750000	457750000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+457775000	457775000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+457825000	457825000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+457850000	457850000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+457925000	457925000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+457950000	457950000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+458000000	458000000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+458125000	458125000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+458150000	458150000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+458175000	458175000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+458200000	458200000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+458250000	458250000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+458300000	458300000	amatorradiozas.hu	MÁV vonali trönk háló irányított duplex
+451637500	451637500	amatorradiozas.hu	Bp K-i pu. szolgáltató + beep tone: 156.2
+461637500	461637500	amatorradiozas.hu	Bp K-i pu. szolgáltató +beep
+162925000	162925000	amatorradiozas.hu	Veszprém
+162525000	162525000	amatorradiozas.hu	Veszprém
+153750000	153750000	amatorradiozas.hu	KUN 1
+153800000	153800000	amatorradiozas.hu	KUN 2
+150000000	150000000	amatorradiozas.hu	KUN 2 bekötő
+153825000	153825000	amatorradiozas.hu	TOP 10
+153875000	153875000	amatorradiozas.hu	TOP 11
+153925000	153925000	amatorradiozas.hu	TOP 12 Pest megyei tűzoltóság
+153700000	153700000	amatorradiozas.hu	TOP 5 Tatabánya, megyei tűzoltóság
+153950000	153950000	amatorradiozas.hu	TOP 6
+153675000	153675000	amatorradiozas.hu	TOP 7
+153725000	153725000	amatorradiozas.hu	TOP 8
+153775000	153775000	amatorradiozas.hu	TOP 9
+461637500	461637500	amatorradiozas.hu	Balatoni vízimentők
+461762500	461762500	amatorradiozas.hu	Balatoni vízimentők
+461700000	461700000	amatorradiozas.hu	Balatoni vízimentők
+461475000	461475000	amatorradiozas.hu	Balatoni vízimentők
+161025000	161025000	amatorradiozas.hu	6×6 taxi CH 1
+162750000	162750000	amatorradiozas.hu	6×6 taxi CH 2
+164075000	164075000	amatorradiozas.hu	TAXI 2000 CH 2
+165750000	165750000	amatorradiozas.hu	Bp. taxi ( Buda taxi) Hotel taxi
+164050000	164050000	amatorradiozas.hu	Buda taxi CH 1
+164300000	164300000	amatorradiozas.hu	Buda taxi CH 2
+165300000	165300000	amatorradiozas.hu	Buda taxi CH 2
+163970000	163970000	amatorradiozas.hu	City taxi CH 1
+164875000	164875000	amatorradiozas.hu	City taxi CH 2
+162245000	162245000	amatorradiozas.hu	City taxi CH 3
+164475000	164475000	amatorradiozas.hu	Főtaxi CH
+161200000	161200000	amatorradiozas.hu	Főtaxi CH 1 műszaki – ellenőri – tehertaxi + futár
+164400000	164400000	amatorradiozas.hu	Főtaxi CH 2 Buda
+164450000	164450000	amatorradiozas.hu	Főtaxi CH 3 Észak
+165400000	165400000	amatorradiozas.hu	Főtaxi CH 4 Centrum
+162775000	162775000	amatorradiozas.hu	TAXI
+164100000	164100000	amatorradiozas.hu	TAXI
+166150000	166150000	amatorradiozas.hu	Taxi 2000 CH 1
+162295000	162295000	amatorradiozas.hu	TAXI CH2
+149375000	149375000	amatorradiozas.hu	Tel. MVM
+167150000	167150000	amatorradiozas.hu	Tele 5 taxi CH 1
+165325000	165325000	amatorradiozas.hu	Tele 5 taxi CH 2
+461412500	461412500	amatorradiozas.hu	Taxi Bp
+452000000	452000000	amatorradiozas.hu	Taxi Bp kódnélküli rendszere
+462000000	462000000	amatorradiozas.hu	Taxi Bp kódnélküli rendszere
+451412500	451412500	amatorradiozas.hu	Taxi Bp tone: 69.3
+455537500	455537500	amatorradiozas.hu	Taxi Bp.
+455550000	455550000	amatorradiozas.hu	Taxi Bp.
+455637500	455637500	amatorradiozas.hu	Taxi Bp.
+465550000	465550000	amatorradiozas.hu	Taxi Bp.
+465637500	465637500	amatorradiozas.hu	Taxi Bp.
+468075000	468075000	amatorradiozas.hu	Taxi központ, simplex
+462675000	462675000	amatorradiozas.hu	Taxi Székesfehérvár Hungária-taxi
+452675000	452675000	amatorradiozas.hu	Taxi Székesfehérvár Hungária-taxi tone: 118.8
+457362500	457362500	amatorradiozas.hu	Főtaxi CH-2 Buda
+448050000	448050000	amatorradiozas.hu	Főtaxi CH 3 Észak
+443050000	443050000	amatorradiozas.hu	Főtaxi CH 3 Észak
+448260000	448260000	amatorradiozas.hu	Főtaxi CH 4 Centrum
+443230000	443230000	amatorradiozas.hu	Főtaxi CH 4 Centrum 165.400
+448000000	448000000	amatorradiozas.hu	Főtaxi diszpécser CH 2 Buda
+467362500	467362500	amatorradiozas.hu	Főtaxi diszpécser CH 2 Buda
+443000000	443000000	amatorradiozas.hu	Főtaxi diszpécser CH 2 Buda
+462237500	462237500	amatorradiozas.hu	Kamionos átjátszó Budapest-1
+452237500	452237500	amatorradiozas.hu	Kamionos átjátszó Budapest-1 Rx:118.8 Tx:206.5
+458018750	458018750	amatorradiozas.hu	Kamionos átjátszó Budapest-2 Észak Rx: 118.8 Tx: 206.5
+468018750	468018750	amatorradiozas.hu	Kamionos átjátszó Budapest-2 Észak (tartalék)
+462212500	462212500	amatorradiozas.hu	Kamionos átjátszó Érd
+452212500	452212500	amatorradiozas.hu	Kamionos átjátszó Érd Rx:118.8 Tx:206.5
+468500000	468500000	amatorradiozas.hu	Kamionos átjátszó Kecskemét
+458500000	458500000	amatorradiozas.hu	Kamionos átjátszó Kecskemét Rx: 118.8 Tx: 206.5
+468306250	468306250	amatorradiozas.hu	Kamionos átjátszó Székesfehérvár
+458306250	458306250	amatorradiozas.hu	Kamionos átjátszó Székesfehérvár Rx: 118.8 Tx: 206.5
+452562500	452562500	amatorradiozas.hu	Kamionos átjátszó tartalék
+462562500	462562500	amatorradiozas.hu	Kamionos átjátszó tartalék
+458400000	458400000	amatorradiozas.hu	Kamionos Ch01
+458412500	458412500	amatorradiozas.hu	Kamionos Ch02
+458425000	458425000	amatorradiozas.hu	Kamionos Ch03
+458437500	458437500	amatorradiozas.hu	Kamionos Ch04
+458450000	458450000	amatorradiozas.hu	Kamionos Ch05
+458462500	458462500	amatorradiozas.hu	Kamionos Ch06
+458475000	458475000	amatorradiozas.hu	Kamionos Ch07
+458487500	458487500	amatorradiozas.hu	Kamionos Ch08
+458500000	458500000	amatorradiozas.hu	Kamionos Ch09
+458512500	458512500	amatorradiozas.hu	Kamionos Ch10
+458525000	458525000	amatorradiozas.hu	Kamionos Ch11
+458537500	458537500	amatorradiozas.hu	Kamionos Ch12
+458550000	458550000	amatorradiozas.hu	Kamionos Ch13
+458562500	458562500	amatorradiozas.hu	Kamionos Ch14
+458575000	458575000	amatorradiozas.hu	Kamionos Ch15
+458587500	458587500	amatorradiozas.hu	Kamionos Ch16
+458600000	458600000	amatorradiozas.hu	Kamionos Ch17
+468400000	468400000	amatorradiozas.hu	Kamionos Ch18
+468412500	468412500	amatorradiozas.hu	Kamionos Ch19
+468425000	468425000	amatorradiozas.hu	Kamionos Ch20
+468437500	468437500	amatorradiozas.hu	Kamionos Ch21
+468450000	468450000	amatorradiozas.hu	Kamionos Ch22
+468462500	468462500	amatorradiozas.hu	Kamionos Ch23
+468475000	468475000	amatorradiozas.hu	Kamionos Ch24
+468487500	468487500	amatorradiozas.hu	Kamionos Ch25
+468500000	468500000	amatorradiozas.hu	Kamionos Ch26
+468512500	468512500	amatorradiozas.hu	Kamionos Ch27
+468525000	468525000	amatorradiozas.hu	Kamionos Ch28
+468537500	468537500	amatorradiozas.hu	Kamionos Ch29
+468550000	468550000	amatorradiozas.hu	Kamionos Ch30
+468562500	468562500	amatorradiozas.hu	Kamionos Ch31
+468575000	468575000	amatorradiozas.hu	Kamionos Ch32
+468587500	468587500	amatorradiozas.hu	Kamionos Ch33
+468600000	468600000	amatorradiozas.hu	Kamionos Ch34
+462662500	462662500	amatorradiozas.hu	Szállítmányozás Bp.
+467712500	467712500	amatorradiozas.hu	Szállítmányozás Bp.
+452662500	452662500	amatorradiozas.hu	Szállítmányozás Bp. SEL5 tone:192.8
+462537500	462537500	amatorradiozas.hu	Szállítmányozás, futárszolgálat Bp. +beep
+452537500	452537500	amatorradiozas.hu	Szállítmányozás, futárszolgálat Bp. +beep t:162.2
