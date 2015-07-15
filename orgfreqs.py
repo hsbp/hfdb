@@ -78,6 +78,6 @@ for url in urls:
         if freq==u'háló': continue
         mi,mx = parse_freqrange(freq.replace(',','.'), mag)
         print (u"%s\t%s\t%s\t%s" % (mi,
-                                        mx,
-                                        'amatorradiozas.hu',
-                                        txt)).encode('utf8')
+                                    mx,
+                                    'amatorradiozas.hu',
+                                    txt)).encode('utf8')
